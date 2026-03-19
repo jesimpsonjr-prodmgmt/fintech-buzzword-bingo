@@ -18,7 +18,7 @@ This tool is partly a joke and partly a genuine text analysis exercise. It demon
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fintech-buzzword-bingo.git
+git clone https://github.com/jesimpsonjr-prodmgmt/fintech-buzzword-bingo.git
 cd fintech-buzzword-bingo
 pip install -r requirements.txt
 ```
