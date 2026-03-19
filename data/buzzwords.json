@@ -1,0 +1,122 @@
+{
+  "categories": {
+    "innovation_theater": {
+      "description": "Words that sound innovative but mean nothing specific",
+      "weight": 2,
+      "terms": [
+        "disrupt",
+        "revolutionize",
+        "transform",
+        "reimagine",
+        "next-generation",
+        "cutting-edge",
+        "game-changing",
+        "paradigm shift",
+        "moonshot"
+      ]
+    },
+    "ai_washing": {
+      "description": "AI terms thrown around regardless of actual AI usage",
+      "weight": 3,
+      "terms": [
+        "AI-powered",
+        "machine learning",
+        "intelligent",
+        "smart",
+        "predictive",
+        "neural",
+        "deep learning",
+        "cognitive",
+        "autonomous"
+      ]
+    },
+    "blockchain_buzzwords": {
+      "description": "Crypto and blockchain terms, often misused",
+      "weight": 3,
+      "terms": [
+        "blockchain",
+        "decentralized",
+        "distributed ledger",
+        "web3",
+        "tokenized",
+        "crypto-native",
+        "on-chain",
+        "trustless"
+      ]
+    },
+    "growth_speak": {
+      "description": "Startup growth terminology",
+      "weight": 1,
+      "terms": [
+        "scale",
+        "hockey stick",
+        "hypergrowth",
+        "network effects",
+        "flywheel",
+        "land and expand",
+        "product-led growth",
+        "viral",
+        "exponential"
+      ]
+    },
+    "synergy_bingo": {
+      "description": "Classic corporate speak that refuses to die",
+      "weight": 2,
+      "terms": [
+        "synergy",
+        "leverage",
+        "ecosystem",
+        "holistic",
+        "best-in-class",
+        "world-class",
+        "industry-leading",
+        "seamless",
+        "frictionless",
+        "end-to-end"
+      ]
+    },
+    "payments_jargon": {
+      "description": "Payments terms that are often buzzword-ified",
+      "weight": 1,
+      "terms": [
+        "omnichannel",
+        "embedded finance",
+        "embedded payments",
+        "payment orchestration",
+        "unified commerce",
+        "real-time payments",
+        "instant payments",
+        "super app"
+      ]
+    },
+    "vague_promises": {
+      "description": "Promises without specifics",
+      "weight": 2,
+      "terms": [
+        "robust",
+        "comprehensive",
+        "innovative",
+        "state-of-the-art",
+        "enterprise-grade",
+        "mission-critical",
+        "turnkey",
+        "plug-and-play"
+      ]
+    }
+  },
+  "bonus_phrases": {
+    "description": "Multi-word phrases that score extra points",
+    "terms": [
+      "move the needle",
+      "low-hanging fruit",
+      "boil the ocean",
+      "drink our own champagne",
+      "eat our own dog food",
+      "north star metric",
+      "single pane of glass",
+      "customer-centric",
+      "data-driven",
+      "first-mover advantage"
+    ]
+  }
+}
